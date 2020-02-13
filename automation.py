@@ -124,7 +124,7 @@ class IgBot:
 
 
 
-myBot = IgBot('lofi_noises', 'Park1234')
+myBot = IgBot(#Login credentials, #password)
 myBot.login()
 # myBot.likes('lofi')
 
